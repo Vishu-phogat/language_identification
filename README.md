@@ -50,7 +50,7 @@ Hindi, Kannada, Tamil, Telugu.
 
 ### Step 1: Clone the repository
 ```bash
-git clone "https://github.com/aravind-selvam/Language_Identification-using-CNN-and-Audio-Processing.git" repository
+git clone "https://github.com/Vishu-phogat/language_identification" repository
 ```
 
 ### Step 2- Create a conda environment after opening the repository
