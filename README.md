@@ -151,4 +151,4 @@ This Language Identification system can be used in a variety of applications suc
 ## Author
 
 - [@vishu_phogat](https://github.com/Vishu-phogat)
-=====================================================================
+
