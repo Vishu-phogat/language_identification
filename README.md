@@ -148,4 +148,7 @@ This Language Identification system can be used in a variety of applications suc
 - Audio/Video Translation: The system can be used to identify the language of the audio/video, then use the language to translate the audio/video in real-time.
 
 
+## Author
+
+- [@vishu_phogat](https://github.com/Vishu-phogat)
 =====================================================================
